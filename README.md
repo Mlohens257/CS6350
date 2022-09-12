@@ -1,2 +1,2 @@
 # CS6350
-A machine learning library developed by Matt Lohens for the class CS6350 at the University of Utah
+This is a machine learning library developed by Matt Lohens for CS5350/6350 in University of Utah
