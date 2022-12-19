@@ -1,0 +1,10 @@
+Note to project grader:
+I was not able to download the data for this project to the Github some of the data is bigger than 25MB. 
+The code won't run properly without the data and proper folder structure. 
+I'd prefer to zip everything up and send it to the reviewer. 
+Please let me know if you have another suggestion.
+
+Once the data issue is worked out the following instructions can be followed to run the program:
+
+The user has the option (prefered) of opening the .ipybn file and run the code line by line.
+Or the user can open a terminal in the local folder that contains the .py file. Then in the command window type "bash run.sh" and hit enter.
